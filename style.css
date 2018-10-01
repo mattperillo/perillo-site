@@ -21,4 +21,10 @@
     border-width: 5px;
     margin: 0;
     padding: 0;
-}
+  }
+
+  #listphoto  {
+    border: solid;
+    border-width: 5px;
+
+  }
