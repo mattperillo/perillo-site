@@ -17,8 +17,9 @@
 
   #abt_me_photos_ind {
     float: left;
-    width: 25%;
-    height: 25%;
+    padding: 20px;
+    width: 50%;
+    height: 50%;
 
   }
 
