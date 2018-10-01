@@ -41,7 +41,7 @@
     float: left;
   }
 
-  #li_nav a {
+  li a {
 
     display: block;
     color: white;
@@ -51,7 +51,7 @@
 
   }
 
-  #li_nav a:hover {
+  li a:hover {
 
     background-color: #111111;
   }
