@@ -37,9 +37,7 @@
   }
 
   #li_nav {
-
     float: left;
-
   }
 
   #li_nav a {
@@ -51,10 +49,9 @@
   }
 
   #li_nav a:hover {
-
     background-color: #111;
 }
 
   #li_nav .active {
-    background-color: #4CAF50;
+    background-color: #5b64af;
   }
