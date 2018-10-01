@@ -60,3 +60,10 @@
   #li_nav_home .active, #li_nav_about .active {
     background-color: #5b64af;
   }
+
+  .val {
+    position: fixed;
+    bottom: 0px;
+    Left: 0px;
+
+  }
