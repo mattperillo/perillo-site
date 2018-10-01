@@ -15,6 +15,13 @@
     border: 3px solid #73AD21;
   }
 
+  #listphoto  {
+
+    border: solid;
+    border-width: 2px;
+
+  }
+
   #listphotoa {
     width: 220px;
     height: 220px;
@@ -24,14 +31,8 @@
   #nav {
     list-style-type: none;
     border: solid;
-    border-width: 5px;
+    border-width: 2px;
     margin: 0;
     padding: 0;
   }
 
-  #listphoto  {
-
-    border: solid;
-    border-width: 5px;
-
-  }
