@@ -8,11 +8,10 @@
 
   #photo {
     position: fixed;
-    top: 50px;
+    top: 55px;
     Right: 0;
     width: 220px;
     height: 220px;
-    border: 3px solid #73AD21;
   }
 
   #listphoto  {
@@ -42,7 +41,7 @@
 
   }
 
-  #li_nav {
+  #li_nav a {
     display: block;
     color: white;
     text-align: center;
