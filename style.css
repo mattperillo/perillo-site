@@ -41,3 +41,17 @@
     float: left;
   }
 
+  #li_nav a {
+
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+
+  }
+
+  #li_nav a:hover {
+
+    background-color: #111111;
+  }
