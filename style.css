@@ -54,3 +54,7 @@
 
     background-color: #111;
 }
+
+  #li_nav .active {
+    background-color: #4CAF50;
+  }
