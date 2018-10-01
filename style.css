@@ -17,12 +17,13 @@
 
   #listphoto  {
 
-    border: solid;
+    border: none;
     border-width: 2px;
 
   }
 
   #listphotoa {
+    float: left;
     width: 128px;
     height: 180px;
 
