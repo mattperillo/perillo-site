@@ -15,19 +15,10 @@
     border: none;
   }
 
-  #abt_me_photos {
-
-    margin-left: auto;
-    margin-right: auto;
-    list-style-type: none;
-    padding: 0;
-    border: none;
-  }
-
   #abt_me_photos_ind {
     float: left;
-    width: 240px;
-    height: 400px;
+    width: 25%;
+    height: 25%;
 
   }
 
