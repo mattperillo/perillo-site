@@ -17,8 +17,10 @@
 
   #listphoto  {
 
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
     border: none;
-    border-width: 2px;
 
   }
 
