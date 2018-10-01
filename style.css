@@ -18,6 +18,7 @@
   #nav {
     list-style-type: none;
     border: solid;
+    border-width: 5px;
     margin: 0;
     padding: 0;
 }
