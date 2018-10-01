@@ -8,10 +8,11 @@
 
   #photo {
     position: fixed;
-    top: 55px;
+    top: 60px;
     Right: 0;
     width: 220px;
     height: 220px;
+    border: none;
   }
 
   #listphoto  {
