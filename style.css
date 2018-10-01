@@ -29,6 +29,7 @@
   }
 
   #nav {
+    display: inline;
     list-style-type: none;
     border: solid;
     border-width: 2px;
