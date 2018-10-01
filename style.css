@@ -32,7 +32,7 @@
 
   }
 
-  #nav {
+  .nav_bar_class {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -41,11 +41,11 @@
     background-color: #111111;
   }
 
-  #li_nav {
+  #li_nav_home, #li_nav_about {
     float: left;
   }
 
-  #li_nav a {
+  #li_nav_home a, #li_nav_about a {
     display: block;
     color: white;
     text-align: center;
@@ -53,10 +53,10 @@
     text-decoration: none;
   }
 
-  #li_nav a:hover {
+  #li_nav_home a:hover, #li_nav_about a:hover {
     background-color: #5b64af;
 }
 
-  #li_nav .active {
+  #li_nav_home .active, #li_nav_about .active {
     background-color: #5b64af;
   }
