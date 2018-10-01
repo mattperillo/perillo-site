@@ -58,3 +58,7 @@
     Left: 0px;
 
   }
+
+  #bot_link {
+    float: left;
+  }
