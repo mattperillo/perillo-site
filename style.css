@@ -15,14 +15,13 @@
     border: none;
   }
 
-  #listphoto  {
+  #listphoto {
 
-    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
     list-style-type: none;
-    margin: 0;
     padding: 0;
     border: none;
-
   }
 
   #listphotoa {
