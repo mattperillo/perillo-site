@@ -29,11 +29,15 @@
   }
 
   #nav {
-    display: inline;
     list-style-type: none;
-    border: solid;
-    border-width: 2px;
     margin: 0;
     padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+  }
+
+  #li_nav {
+
+    float: left;
   }
 
