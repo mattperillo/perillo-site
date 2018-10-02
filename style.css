@@ -1,65 +1,69 @@
-  #div_headers {
+#div_headers {
     text-align: center;
-  }
+}
 
-  #desco {
+#desco {
     text-align: center;
-   }
+}
 
-  #corner_photo {
+#corner_photo {
     position: fixed;
     top: 0px;
     Right: 0;
     width: 128px;
     height: 180px;
     border: none;
-  }
+}
 
-  #abt_me_photos_ind {
+#abt_me_photos_ind {
     float: left;
     padding: 20px;
     width: 320px;
     height: 214px;
     align-items: center;
 
-  }
+}
 
-  .nav_bar_class {
+.nav_bar_class {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     position: fixed;
     background-color: #111111;
-  }
+}
 
-  #li_nav_home, #li_nav_about {
+#li_nav_home, #li_nav_about {
     float: left;
-  }
+}
 
-  #li_nav_home a, #li_nav_about a {
+#li_nav_home a, #li_nav_about a {
     display: block;
     color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-  }
+}
 
-  #li_nav_home a:hover, #li_nav_about a:hover {
+#li_nav_home a:hover, #li_nav_about a:hover {
     background-color: #5b64af;
 }
 
-  #li_nav_home .active, #li_nav_about .active {
+#li_nav_home .active, #li_nav_about .active {
     background-color: #5b64af;
-  }
+}
 
-  .bot_cor {
+.bot_cor {
     position: fixed;
     bottom: 0px;
     Left: 0px;
 
-  }
+}
 
-  #bot_link {
+#bot_link {
     float: left;
-  }
+}
+
+.bordered {
+    border: 1px solid black
+}
