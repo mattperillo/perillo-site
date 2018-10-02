@@ -73,6 +73,11 @@ table.bordered {
     border-collapse: collapse;
 }
 
-table.bordered, td.bordered, th.bordered {
+table.bordered, td.bordered {
     border: 1px solid black;
+}
+
+th.bordered {
+    border: 1px solid black;
+    text-align: left;
 }
