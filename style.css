@@ -81,3 +81,7 @@ th.bordered {
     border: 1px solid black;
     text-align: left;
 }
+
+#inline {
+   color: red;
+}
