@@ -16,28 +16,16 @@
 }
 
 #abt_me_photos {
-    text-align:center;
-
+    text-align: center;
 }
 
 #abt_me_photos_ind {
 
-    display:inline-block;
+    display: inline-block;
     padding: 20px;
     width: 320px;
     height: 214px;
-    font-size: small;
     margin: 5px 7px 0 3px;
-
-
-
-    /*
-    float: left;
-    padding: 20px;
-    width: 320px;
-    height: 214px;
-    align-items: center;
-    */
 
 }
 
@@ -83,4 +71,5 @@
 
 .bordered {
     border: 1px solid black
+    text-align: left;
 }
