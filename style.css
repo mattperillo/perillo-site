@@ -85,3 +85,7 @@ th.bordered {
 #inline {
    color: red;
 }
+
+.centered {
+    text-align: center;
+}
