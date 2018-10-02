@@ -69,7 +69,10 @@
     float: left;
 }
 
-.bordered {
-    border: 1px solid black
-    text-align: left;
+.bordered table {
+    border-collapse: collapse;
+}
+
+.bordered table, th, td {
+    border: 1px solid black;
 }
