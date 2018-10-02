@@ -18,8 +18,8 @@
   #abt_me_photos_ind {
     float: left;
     padding: 20px;
-    width: 50%;
-    height: 50%;
+    width: 640px;
+    height: 480px;
     align-items: center;
 
   }
